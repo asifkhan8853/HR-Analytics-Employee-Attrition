@@ -1,0 +1,76 @@
+HR ANALYTICS & EMPLOYEE ATTRITION DASHBOARD
+
+KEY INSIGHTS
+
+1. OVERALL ATTRITION
+    Total Employees: 1,470
+    Attrition Count: 237
+    Overall Attrition Rate: 16.12%
+2. DEPARTMENT-WISE ATTRITION
+    Research & Development: 133 (56.1%)
+    Sales: 92 (38.8%)
+    Human Resources: 12 (5.1%)
+
+R&D and Sales together contribute approximately 94.9% of total attrition.
+
+3. JOB ROLE-WISE ATTRITION
+    Laboratory Technician: 62 (26.2%)
+    Sales Executive: 57 (24.1%)
+    Research Scientist: 47 (19.8%)
+
+The top three job roles account for approximately 70% of total attrition.
+
+4. JOB LEVEL-WISE ATTRITION
+    Level 1: 143 (60.3%)
+    Level 2: 52 (21.9%)
+    Level 3: 32 (13.5%)
+    Level 4: 5 (2.1%)
+    Level 5: 5 (2.1%)
+
+Job Levels 1 and 2 together account for approximately 82.3% of total attrition.
+
+5. AGE-WISE ATTRITION
+    Employees aged 25–34 contribute 112 attritions, approximately 47.3% of total attrition.
+
+The highest individual age bin is 30–34, with 59 attritions.
+
+6. OVERTIME-WISE ATTRITION
+    Overtime - Yes: 127 (53.6%)
+    Overtime - No: 110 (46.4%)
+
+Attrition count is slightly higher among employees working overtime.
+
+7. JOB SATISFACTION-WISE ATTRITION
+    Level 3: 73 (30.8%)
+    Level 1: 66 (27.8%)
+    Level 4: 52 (21.9%)
+    Level 2: 46 (19.4%)
+
+Level 3 has the highest attrition count.
+
+8. GENDER-WISE ATTRITION
+    Male: 150 (63.3%)
+    Female: 87 (36.7%)
+
+Male employees account for the larger share of total attrition.
+
+9. BUSINESS TRAVEL-WISE ATTRITION
+    Travel_Rarely: 156 (65.8%)
+    Travel_Frequently: 69 (29.1%)
+    Non-Travel: 12 (5.1%)
+
+Travel_Rarely accounts for the largest share of total attrition.
+
+OVERALL CONCLUSION
+
+The analysis shows that employee attrition is concentrated in specific employee segments, particularly Job Level 1, Research & Development, and the 25–34 age group.
+
+Laboratory Technicians, Sales Executives, and Research Scientists have the highest attrition counts among job roles.
+
+The dashboard provides an interactive way to analyze employee attrition patterns across departments, job roles, job levels, age groups, overtime, job satisfaction, gender, and business travel.
+
+IMPORTANT NOTE
+
+The percentages presented in these insights represent the share of total attrition, not category-specific attrition rates.
+
+Category-specific attrition rates would require the total employee count for each category.
